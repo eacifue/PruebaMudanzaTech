@@ -1,0 +1,11 @@
+C:\Users\Eric\source\repos\TS.Reto.WEB\TS.Reto.DT\bin\Debug\TS.Reto.DT.dll
+C:\Users\Eric\source\repos\TS.Reto.WEB\TS.Reto.DT\bin\Debug\TS.Reto.DT.pdb
+C:\Users\Eric\source\repos\TS.Reto.WEB\TS.Reto.DT\obj\Debug\TS.Reto.DT.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\TS.Reto.WEB\TS.Reto.DT\obj\Debug\TS.Reto.DT.dll
+C:\Users\Eric\source\repos\TS.Reto.WEB\TS.Reto.DT\obj\Debug\TS.Reto.DT.pdb
+D:\Prueba\TS.Reto\TS.Reto.DT\bin\Debug\TS.Reto.DT.dll
+D:\Prueba\TS.Reto\TS.Reto.DT\bin\Debug\TS.Reto.DT.pdb
+D:\Prueba\TS.Reto\TS.Reto.DT\obj\Debug\TS.Reto.DT.csprojAssemblyReference.cache
+D:\Prueba\TS.Reto\TS.Reto.DT\obj\Debug\TS.Reto.DT.csproj.CoreCompileInputs.cache
+D:\Prueba\TS.Reto\TS.Reto.DT\obj\Debug\TS.Reto.DT.dll
+D:\Prueba\TS.Reto\TS.Reto.DT\obj\Debug\TS.Reto.DT.pdb
